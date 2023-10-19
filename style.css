@@ -448,18 +448,19 @@ section .button button:hover{
   transition: background-color 0.4s ease, color 0.4s ease;
 }
 
-.projects .learn-more:hover {
+/* .projects .learn-more:hover {
   background-color: #fff;
   color: #d000ff;
-}
-.projects .project-box:hover {
+} */
+/* .projects .project-box:hover {
   background: #d000ff;
   color: #fff;
-}
+} */
 
 .projects .project-box:hover .learn-more {
   background-color: #fff;
   color: #d000ff;
+  border: solid 1px #d000ff;
 }
 
 
